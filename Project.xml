@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="FNF' Vs Mod" file="FNF-MOD" packageName="com.fnf.vs.mod.lol" package="com.fnf.vs.mod.lol" main="Main" version="0.2.8" company="ShadowMario" />
+	<app title="Friday Night Funkin': VS Computerized Conflict" file="ComputerizedConflict" packageName="com.animation.1.5.lol" package="com.animation.1.5.lol" main="Main" version="0.2.8" company="soulbf10" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
