@@ -4,7 +4,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-13
 			],
 			"fps": 24,
 			"anim": "cheer",
@@ -14,8 +14,52 @@
 		{
 			"loop": false,
 			"offsets": [
-				-1,
-				-9
+				0,
+				-7
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-31
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-31
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-20
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -93,17 +137,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/CC/GF_assets_new",
 	"position": [
-		150,
-		310
+		-3,
+		-24
 	],
-	"healthicon": "gf",
+	"healthicon": "gfCC",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		199,
+		19,
+		102
 	],
 	"camera_position": [
 		0,
